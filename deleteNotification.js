@@ -1,4 +1,4 @@
-const API_KEY = 'QuickALerts_API_Key_Here'; // QuickAlerts API Key
+const API_KEY = 'QuickAlerts_API_Key_Here'; // QuickAlerts API Key
 
 async function deleteNotification(notificationResponse) {
 
